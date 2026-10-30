@@ -1,2 +1,2 @@
 # First-repo
-This folder contain java code
+This folder contain java code not python.
